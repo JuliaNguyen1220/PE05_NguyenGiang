@@ -8,6 +8,6 @@ Implement a route that allows users to add a new recipe along with its informati
 Implement a nested route under the "Recipe List" route that displays detailed information
 Implement functionality to update and delete recipes
 Utilize the MongoDB Node.js
-#Output 
+# Output 
 The application visually appealing and user-friendlu
 Components and files are well-structured
